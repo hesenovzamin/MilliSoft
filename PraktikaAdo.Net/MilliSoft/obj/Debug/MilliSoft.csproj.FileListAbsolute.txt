@@ -1,0 +1,14 @@
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.csprojAssemblyReference.cache
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.Properties.Resources.resources
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.csproj.GenerateResource.cache
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\bin\Debug\MilliSoft.exe.config
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\bin\Debug\MilliSoft.exe
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\bin\Debug\MilliSoft.pdb
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.Form1.resources
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.VezifeFrom.resources
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.exe
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.pdb
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.IsciForm.resources
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.Metod.XerclerForm.resources
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.DerslerForm.resources
+C:\Users\Zamin\source\repos\PraktikaAdo.Net\MilliSoft\obj\Debug\MilliSoft.TelebeForm.resources
